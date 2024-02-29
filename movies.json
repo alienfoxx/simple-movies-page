@@ -1,0 +1,587 @@
+[
+  {
+     "titre":"Bird Box",
+     "realisateur":"Susanne Bier",
+     "duree":"124 minutes",
+     "annee_de_production":2018,
+     "poster":"https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_.jpg",
+     "festivals":[
+        "Festival du film de Londres",
+        "Festival international du film de Toronto"
+     ],
+     "acteurs":[
+        {
+           "nom":"Bullock",
+           "prenom":"Sandra",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Rhodes",
+           "prenom":"Trevante",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Sarafyan",
+           "prenom":"Angela",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"No Country for Old Men",
+     "realisateur":"Joel et Ethan Coen",
+     "duree":"124 minutes",
+     "annee_de_production":2007,
+     "poster":"https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_FMjpg_UX1000_.jpg",
+     "festivals":[
+        "Festival de Cannes 2007 ",
+        "Festival du film de New York 2007",
+        "Festival international du film de Toronto"
+     ],
+     "acteurs":[
+        {
+           "nom":"Lee Jones",
+           "prenom":"Tommy ",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Bardem",
+           "prenom":"Javier",
+           "nationalite":"Espagnol"
+        },
+        {
+           "nom":"Brolin ",
+           "prenom":"Josh",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"Her",
+     "realisateur":"Spike Jonze",
+     "duree":"126 minutes",
+     "annee_de_production":2013,
+     "poster":"https://c4.wallpaperflare.com/wallpaper/240/108/8/film-posters-her-movie-joaquin-phoenix-spike-jonze-wallpaper-preview.jpg",
+     "festivals":[
+        "Festival du film de New York 2013",
+        "Festival international du film de Toronto",
+        "Festival international du film de Berlin "
+     ],
+     "acteurs":[
+        {
+           "nom":"Phoenix ",
+           "prenom":" Joaquin ",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Johansson ",
+           "prenom":"Scarlett ",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Adams ",
+           "prenom":"Amy",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"spider-man across the spider-verse",
+     "realisateur":"Joaquim Dos Santos",
+     "duree":"122 minutes",
+     "annee_de_production":2023,
+     "poster":"https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+     "festivals":[
+        "Festival international du film de São Paulo",
+        "Festival du film de Mill Valley",
+        "AFI Fest"
+     ],
+     "acteurs":[
+        {
+           "nom":"Moore",
+           "prenom":"Shameik",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Steinfeld",
+           "prenom":"Hailee",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Isaac ",
+           "prenom":"Oscar",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"Man of Fire",
+     "realisateur":"Tony Scott",
+     "duree":"146 minutes",
+     "annee_de_production":2004,
+     "poster":"https://m.media-amazon.com/images/M/MV5BODFlMmEwMDgtYjhmZi00ZTE5LTk2NWQtMWE1Y2M0NjkzOGYxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+     "festivals":[
+        "Festival international du film de Berlin",
+        "Festival de Cannes"
+     ],
+     "acteurs":[
+        {
+           "nom":"Washington",
+           "prenom":"Denzel",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Fanning",
+           "prenom":"Dakota",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Anthony",
+           "prenom":"Marc",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"The Revenant",
+     "realisateur":"Alejandro González Iñárritu",
+     "duree":"156 minutes",
+     "annee_de_production":2015,
+     "poster":"https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+     "festivals":[
+        "Festival du film de Rome"
+     ],
+     "acteurs":[
+        {
+           "nom":"DiCaprio",
+           "prenom":"Leonardo",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Hardy",
+           "prenom":"Tom",
+           "nationalite":"Britannique"
+        },
+        {
+           "nom":"Anthony",
+           "prenom":"Marc",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"The Dark Knight",
+     "realisateur":"Christopher Nolan",
+     "duree":"152 minutes",
+     "annee_de_production":2008,
+     "poster":"https://m.media-amazon.com/images/I/912Lg7lFhML._AC_UF894,1000_QL80_.jpg",
+     "festivals":[
+        "Festival du film de Venise",
+        "Festival international du film de Toronto"
+     ],
+     "acteurs":[
+        {
+           "nom":"Bale",
+           "prenom":"Christian",
+           "nationalite":"Britannique"
+        },
+        {
+           "nom":"Ledger",
+           "prenom":"Heath",
+           "nationalite":"Australienne"
+        },
+        {
+           "nom":"Gyllenhaal",
+           "prenom":"Maggie",
+           "nationalite":"Américaine"
+        }
+     ]
+  },
+  {
+     "titre":"12 Hommes en colère",
+     "realisateur":"Sidney Lumet",
+     "duree":"96 minutes",
+     "annee_de_production":1957,
+     "poster":"https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+     "festivals":[
+        "Festival international du film de Venise",
+        "Berlin International Film Festival"
+     ],
+     "acteurs":[
+        {
+           "nom":"Fonda",
+           "prenom":"Henry",
+           "nationalite":"Américaine"
+        },
+        {
+           "nom":"Cobb",
+           "prenom":"Lee J.",
+           "nationalite":"Américaine"
+        },
+        {
+           "nom":"Begley",
+           "prenom":"Ed",
+           "nationalite":"Américaine"
+        }
+     ]
+  },
+  {
+     "titre":"Parasite",
+     "realisateur":"Bong Joon-ho",
+     "duree":"124 minutes",
+     "annee_de_production":2019,
+     "poster":"https://m.media-amazon.com/images/I/91KArYP03YL._AC_UF1000,1000_QL80_.jpg",
+     "festivals":[
+        "Festival de Cannes",
+        "Festival du film de New York",
+        "Festival international du film de Toronto"
+     ],
+     "acteurs":[
+        {
+           "nom":"Song",
+           "prenom":"Kang-ho",
+           "nationalite":"Sud-coréenne"
+        },
+        {
+           "nom":"Lee",
+           "prenom":"Sun-kyun",
+           "nationalite":"Sud-coréenne"
+        },
+        {
+           "nom":"Cho",
+           "prenom":"Yeo-jeong",
+           "nationalite":"Sud-coréenne"
+        }
+     ]
+  },
+  {
+     "titre":"Le Silence des agneaux",
+     "realisateur":"Jonathan Demme",
+     "duree":"118 minutes",
+     "annee_de_production":1991,
+     "poster":"https://www.ecranlarge.com/uploads/image/001/203/fbjfvpmcmyghw3i8tcmef4cweuh-680.jpg",
+     "festivals":[
+        "Festival international du film de Berlin",
+        "Festival de Cannes",
+        "Festival du film de New York"
+     ],
+     "acteurs":[
+        {
+           "nom":"Foster",
+           "prenom":"Jodie",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Hopkins",
+           "prenom":"Anthony",
+           "nationalite":"Britannique"
+        },
+        {
+           "nom":"Glenn",
+           "prenom":"Scott",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"John Wick",
+     "realisateur":"Chad Stahelski, David Leitch",
+     "duree":"101 minutes",
+     "annee_de_production":2014,
+     "poster":"https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_.jpg",
+     "festivals":[
+        "Festival international du film fantastique de Gérardmer",
+        "Festival du film d'Austin"
+     ],
+     "acteurs":[
+        {
+           "nom":"Reeves",
+           "prenom":"Keanu",
+           "nationalite":"Américaine"
+        },
+        {
+           "nom":"Dafoe",
+           "prenom":"Willem",
+           "nationalite":"Américaine"
+        },
+        {
+           "nom":"McShane",
+           "prenom":"Ian",
+           "nationalite":"Britannique"
+        }
+     ]
+  },
+  {
+     "titre":"Django Unchained",
+     "realisateur":"Quentin Tarantino",
+     "duree":"165 minutes",
+     "annee_de_production":2012,
+     "poster":"https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+     "festivals":[
+        "Festival de Cannes",
+        "Festival du film d'Austin"
+     ],
+     "acteurs":[
+        {
+           "nom":"Foxx",
+           "prenom":"Jamie",
+           "nationalite":"Américaine"
+        },
+        {
+           "nom":"Waltz",
+           "prenom":"Christoph",
+           "nationalite":"Autrichienne"
+        },
+        {
+           "nom":"DiCaprio",
+           "prenom":"Leonardo",
+           "nationalite":"Américaine"
+        }
+     ]
+  },
+  {
+     "titre":"Cargo",
+     "realisateur":"Ben Howling",
+     "duree":"105 minutes",
+     "annee_de_production":2017,
+     "poster":"https://m.media-amazon.com/images/M/MV5BZTczZWEyOTktODNmMC00NDgzLTk3NTktYjllN2Y4MWMxOGViXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+     "festivals":[
+        "Festival international du film de Tribeca 2018",
+        "Festival international du film de Londres 2017",
+        "Festival international du film de Sitges 2017 "
+     ],
+     "acteurs":[
+        {
+           "nom":"Martin ",
+           "prenom":" Freeman ",
+           "nationalite":"Britannique"
+        },
+        {
+           "nom":"Anthony ",
+           "prenom":"Hayes ",
+           "nationalite":"Australienne"
+        },
+        {
+           "nom":"Susie ",
+           "prenom":"Porter",
+           "nationalite":"Australienne"
+        }
+     ]
+  },
+  {
+     "titre":"Pulp Fiction",
+     "realisateur":"Quentin Tarantino",
+     "duree":"154 minutes",
+     "annee_de_production":1994,
+     "poster":"https://product-image.juniqe-production.juniqe.com/media/catalog/product/seo-cache/x800/372/31/372-31-101P/Pulp-Fiction-Nour-Tohme-Affiche.jpg",
+     "festivals":[
+        "Festival de Cannes",
+        "Festival du film de Toronto"
+     ],
+     "acteurs":[
+        {
+           "nom":"Travolta",
+           "prenom":"John",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Jackson",
+           "prenom":"Samuel L.",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Thurman",
+           "prenom":"Uma",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"Le Parrain",
+     "realisateur":"Francis Ford Coppola",
+     "duree":"175 minutes",
+     "annee_de_production":1972,
+     "poster":"https://mfiles.alphacoders.com/985/985719.jpg",
+     "festivals":[
+        "Festival de Cannes",
+        "Festival du film de New York"
+     ],
+     "acteurs":[
+        {
+           "nom":"Brando",
+           "prenom":"Marlon",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Pacino",
+           "prenom":"Al",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Caan",
+           "prenom":"James",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"The Shawshank Redemption",
+     "realisateur":"Frank Darabont",
+     "duree":"142 minutes",
+     "annee_de_production":1994,
+     "poster":"https://mir-s3-cdn-cf.behance.net/project_modules/hd/1a510538002089.5752dfdc147a7.jpg",
+     "festivals":[
+        "Festival international du film de Toronto",
+        "Festival du film de Sundance"
+     ],
+     "acteurs":[
+        {
+           "nom":"Freeman",
+           "prenom":"Morgan",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Robbins",
+           "prenom":"Tim",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Whitaker",
+           "prenom":"Forest",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"La liste de Schindler",
+     "realisateur":"Steven Spielberg",
+     "duree":"195 minutes",
+     "annee_de_production":1993,
+     "poster":"https://m.media-amazon.com/images/I/61yoLZUJ5hL._AC_UF1000,1000_QL80_.jpg",
+     "festivals":[
+        "Festival de Berlin",
+        "Festival du film de Los Angeles"
+     ],
+     "acteurs":[
+        {
+           "nom":"Neeson",
+           "prenom":"Liam",
+           "nationalite":"Irlandais"
+        },
+        {
+           "nom":"Fiennes",
+           "prenom":"Ralph",
+           "nationalite":"Britannique"
+        },
+        {
+           "nom":"Stern",
+           "prenom":"Ben",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+     "titre":"The Mountain Between Us",
+     "realisateur":"Hany Abu-Assad",
+     "duree":"112 minutes",
+     "annee_de_production":2017,
+     "poster":"https://m.media-amazon.com/images/M/MV5BNjllMWJmZTEtODA2Mi00MzY3LThiYmMtZDFjYjQ2NDM2MWJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+     "festivals":[
+        "Festival de Berlin",
+        "Festival du film de Los Angeles"
+     ],
+     "acteurs":[
+        {
+           "nom":"Elba",
+           "prenom":"Idris",
+           "nationalite":"Britannique"
+        },
+        {
+           "nom":"Winslet",
+           "prenom":"Kate",
+           "nationalite":"Britannique"
+        }
+     ]
+  },
+  {
+     "titre":"Oppenheimer",
+     "realisateur":"Christopher Nolan",
+     "duree":"181 minutes",
+     "annee_de_production":2024,
+     "poster":"https://m.media-amazon.com/images/I/81XXxWVKbOL._AC_UF1000,1000_QL80_.jpg",
+     "festivals":"Festival de Cannes",
+     "acteurs":[
+        {
+           "nom":"Gosling",
+           "prenom":"Ryan",
+           "nationalite":"Canadienne"
+        },
+        {
+           "nom":"Chastain",
+           "prenom":"Jessica",
+           "nationalite":"Américaine"
+        },
+        {
+           "nom":"Caine",
+           "prenom":"Michael",
+           "nationalite":"Britannique"
+        }
+     ]
+  },
+  {
+     "titre":"Le Bon, la Brute et le Truand",
+     "realisateur":"Sergio Leone",
+     "duree":"178 minutes",
+     "annee_de_production":1966,
+     "poster":"https://posterissim.com/513/le-bon-la-brute-et-le-truand-fr.jpg",
+     "festivals":[
+        "Festival international du film de Berlin",
+        "Festival du film de New York"
+     ],
+     "acteurs":[
+        {
+           "nom":"Eastwood",
+           "prenom":"Clint",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Van Cleef",
+           "prenom":"Lee",
+           "nationalite":"Americaine"
+        },
+        {
+           "nom":"Wallach",
+           "prenom":"Eli",
+           "nationalite":"Americaine"
+        }
+     ]
+  },
+  {
+    "titre":"Hancock",
+    "realisateur":"Pete Berg",
+    "duree":"142 minutes",
+    "annee_de_production":2008,
+    "poster":"https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/hancock_onesheet_1400x2100.jpg",
+    "festivals":[
+       "Festival international du film de Berlin",
+       "Festival du film de New York"
+    ],
+    "acteurs":[
+       {
+          "nom":"Smith",
+          "prenom":"Will",
+          "nationalite":"Americaine"
+       },
+       {
+          "nom":"Theron",
+          "prenom":"Charlize",
+          "nationalite":"Sud-Africaine"
+       },
+       {
+          "nom":"Bateman",
+          "prenom":"Jason",
+          "nationalite":"Americaine"
+       }
+    ]
+ }
+]
